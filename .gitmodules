@@ -58,3 +58,6 @@
 [submodule "4semestre/so/horsetype"]
 	path = 4semestre/so/horsetype
 	url = https://github.com/vrveiga/horsetype.git
+[submodule "5semestre/Segunda_Vida"]
+	path = 5semestre/Segunda_Vida
+	url = https://github.com/carol-akimi/Segunda_Vida.git
