@@ -61,3 +61,15 @@
 [submodule "5semestre/Segunda_Vida"]
 	path = 5semestre/Segunda_Vida
 	url = https://github.com/carol-akimi/Segunda_Vida.git
+[submodule "5semestre/sistema-mecanico"]
+	path = 5semestre/sistema-mecanico
+	url = https://github.com/fccerri/sistema-mecanico.git
+[submodule "5semestre/web/mundo-nino-e-nina"]
+	path = 5semestre/web/mundo-nino-e-nina
+	url = https://github.com/vrveiga/mundo-nino-e-nina.git
+[submodule "5semestre/smart-greenhouse"]
+	path = 5semestre/smart-greenhouse
+	url = https://github.com/fccerri/smart-greenhouse.git
+[submodule "5semestre/web/atv2"]
+	path = 5semestre/web/atv2
+	url = https://github.com/fccerri/atv2.git
