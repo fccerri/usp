@@ -73,3 +73,6 @@
 [submodule "5semestre/web/atv2"]
 	path = 5semestre/web/atv2
 	url = https://github.com/fccerri/atv2.git
+[submodule "6semestre/cad/High-Performance-Computing"]
+	path = 6semestre/cad/High-Performance-Computing
+	url = https://github.com/Dantovisk/High-Performance-Computing
